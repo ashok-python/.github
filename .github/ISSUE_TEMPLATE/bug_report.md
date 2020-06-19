@@ -23,29 +23,32 @@ Do you want to ask a question? Are you looking for support? The Atom message boa
 
 ### Description
 
-<!-- Description of the issue -->
+<!-- Unable to open python shell in my atom editor in Windows 10 -->
 
 ### Steps to Reproduce
 
 1. <!-- First Step -->
+Start Atom Editor
 2. <!-- Second Step -->
+In the atom editor press "+" ("New Terminal") at the lest most of the Atom 
 3. <!-- and so on… -->
+It opens terminal, but does not start Python shell. It just keeps blank.
 
 **Expected behavior:**
 
-<!-- What you expect to happen -->
+<!-- What you expect to happen -->It's supposed to start Python shell in Atom Editor
 
 **Actual behavior:**
 
-<!-- What actually happens -->
+<!-- What actually happens --> It's simply blank upon pressing +
 
 **Reproduces how often:**
 
-<!-- What percentage of the time does it reproduce? -->
+<!-- What percentage of the time does it reproduce? -->every time
 
 ### Versions
 
-<!-- You can get this information from copy and pasting the output of `atom --version` and `apm --version` from the command line. Also, please include the OS and what version of the OS you're running. -->
+<!-- You can get this information from copy and pasting the output of `atom --version` and `apm --version` from the command line. Also, please include the OS and what version of the OS you're running. --> Windows 10
 
 ### Additional Information
 
